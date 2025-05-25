@@ -4,5 +4,6 @@ author: Auren
 
 ```
 pnpm add express
+pnpm add cors
 
 ```
